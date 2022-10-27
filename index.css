@@ -9,13 +9,9 @@ p {
 }
 
 .attribution {
-	position: fixed;
-	bottom: 0;
-	left: 50%;
-	margin-right: -50%;
-	transform: translate(-50%, -50%);
-	font-size: 11px;
 	text-align: center;
+	margin-top: 50px;
+	font-size: 11px;
 }
 
 .attribution a {
